@@ -1,0 +1,3 @@
+[submodule "quran-text"]
+	path = quran-text
+	url = https://github.com/rioastamal/quran-text.git
